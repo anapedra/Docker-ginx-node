@@ -1,0 +1,11 @@
+{
+    "name": "nodejs-docker",
+    "version": "1.0.0",
+    "description": "Node.js app with MySQL in Docker",
+    "main": "app.js",
+    "dependencies": {
+      "express": "^4.17.2",
+      "mysql": "^2.18.1"
+    }
+  }
+  
